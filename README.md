@@ -1,1 +1,3 @@
 # ICP-0AEA6888-2026-REPO
+# Week 1 is Succesful complete✅
+# Week 2 is Succesful complete✅

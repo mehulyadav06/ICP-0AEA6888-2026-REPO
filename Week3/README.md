@@ -21,7 +21,7 @@ A conversational AI chatbot built using Google's Gemini API.
 
 1. Clone repository
 2. Install dependencies
-    pip install -r requirements.txt
+    pip install -r google-generativeai
 3. Add Gemini API Key
 4. Run chatbot
   python chatbot.py

@@ -4,3 +4,4 @@
 # Week 3 is Succesful complete✅
 # Week 4 is Succesful complete✅
 # Week 5 is Succesful complete✅
+# Week 6 is Succesful complete✅
